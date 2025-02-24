@@ -16,7 +16,7 @@ hs_err_pid*
 /bin/
 /gen/
 /target/
-/.settings
+/.settings/
 .project
 .classpath
 
