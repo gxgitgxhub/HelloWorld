@@ -1,4 +1,4 @@
-// 数组
+//字符串数组
 public class Array {
     public static void main(String[] args) {
         String[] names = {"ABC", "XYZ", "zoo"}; 
